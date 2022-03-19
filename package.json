@@ -17,7 +17,5 @@
   },
   "homepage": "https://github.com/briangershon/github-actions-cron#readme",
   "dependencies": {},
-  "devDependencies": {
-    "axios": "^0.21.1"
-  }
+  "devDependencies": {}
 }
